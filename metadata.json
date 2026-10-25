@@ -1,0 +1,6 @@
+{
+  "name": "Infographic 9 Nhiệm Vụ Phát Triển Việt Nam Thành Quốc Gia Biển Mạnh",
+  "description": "Infographic động tương tác 16:9 trình bày trực quan 9 nhiệm vụ quan trọng phát triển Việt Nam thành quốc gia biển mạnh theo Nghị quyết 218/NQ-CP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
